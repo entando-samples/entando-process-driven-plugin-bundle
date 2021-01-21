@@ -1,19 +1,9 @@
-kind: "EntandoPlugin"
-apiVersion: "entando.org/v1"
-deploymentBaseName: "entando-pda-plugin"
-metadata:
-  name: "pda-plugin"
-spec:
-  image: "docker.io/entando/entando-process-driven-plugin:latest"
-  replicas: 1
-  dbms: "none"
-  parameters: {}
-  ingressPath: "/pda"
-  healthCheckPath: "/actuator/health"
-  securityLevel: lenient
-  connectionConfigNames: []
-  permissions: []
-  roles:
+image: "docker.io/entando/entando-process-driven-plugin:latest"
+dbms: "none"
+ingressPath: "/pda"
+healthCheckPath: "/actuator/health"
+securityLevel: lenient
+roles:
   - name: "task-list"
     code: "task-list"
   - name: "task-get"
