@@ -8,6 +8,6 @@ configUi:
   customElement: task-details-config
   resources:
     - entando-pda-plugin-bundle/static/js/2.ea3710c5.chunk.js
-    - entando-pda-plugin-bundle/static/js/main.d5ca9ecc.chunk.js
+    - entando-pda-plugin-bundle/static/js/main.5d18b3e4.chunk.js
     - entando-pda-plugin-bundle/static/js/runtime-main.19b9e25f.js
 # entando_resource_injection_point
