@@ -7,7 +7,7 @@ customUiPath: overtime-graph.ftl
 configUi:
   customElement: overtime-graph-config
   resources:
-    - entando-pda-plugin-bundle/static/js/2.71a9f57d.chunk.js
-    - entando-pda-plugin-bundle/static/js/main.4be47b7e.chunk.js
+    - entando-pda-plugin-bundle/static/js/2.231c4125.chunk.js
+    - entando-pda-plugin-bundle/static/js/main.328d5c1c.chunk.js
     - entando-pda-plugin-bundle/static/js/runtime-main.19b9e25f.js
 # entando_resource_injection_point
