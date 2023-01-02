@@ -1,7 +1,7 @@
 <#assign wp=JspTaglibs["/aps-core"]>
 <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
-<script src="<@wp.resourceURL />entando-pda-plugin-bundle/static/js/main.d2f6802a.js"></script>
+<script src="<@wp.resourceURL />entando-pda-plugin-bundle/static/js/main.627e3d56.js"></script>
 <link href="<@wp.resourceURL />entando-pda-plugin-bundle/static/css/main.957d6320.css" rel="stylesheet">
 <#-- entando_resource_injection_point -->
 
