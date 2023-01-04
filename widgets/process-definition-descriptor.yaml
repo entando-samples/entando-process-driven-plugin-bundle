@@ -7,5 +7,5 @@ customUiPath: process-definition.ftl
 configUi:
   customElement: process-definition-config
   resources:
-    - entando-pda-plugin-bundle/static/js/main.c772b225.js
+    - entando-pda-plugin-bundle/static/js/main.d2402a2e.js
 # entando_resource_injection_point
