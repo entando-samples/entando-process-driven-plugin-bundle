@@ -7,5 +7,5 @@ customUiPath: task-comments.ftl
 configUi:
   customElement: task-comments-config
   resources:
-    - entando-pda-plugin-bundle/static/js/main.627e3d56.js
+    - entando-pda-plugin-bundle/static/js/main.4392fd92.js
 # entando_resource_injection_point
