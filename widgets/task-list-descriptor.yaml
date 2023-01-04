@@ -7,5 +7,5 @@ customUiPath: task-list.ftl
 configUi:
   customElement: task-list-config
   resources:
-    - entando-pda-plugin-bundle/static/js/main.4392fd92.js
+    - entando-pda-plugin-bundle/static/js/main.c772b225.js
 # entando_resource_injection_point
